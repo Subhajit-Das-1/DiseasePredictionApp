@@ -29,59 +29,50 @@ The **Disease Prediction App** leverages machine learning algorithms to analyze 
 
 To run the project locally:
 
-1. Clone the repository:
+##  Clone the repository:
 
    ```bash
    git clone https://github.com/Subhajit-Das-1/DiseasePredictionApp.git
    cd DiseasePredictionApp
-Set up a virtual environment:
+ ```
+## Set up a virtual environment:
 
-bash
-Copy code
+ ```bash
 python -m venv venv
 Activate the virtual environment:
+ ```
+## On Windows:
 
-On Windows:
-
-bash
-Copy code
+ ```bash
 .\venv\Scripts\activate
+ ```
 On macOS/Linux:
 
-bash
-Copy code
+ ```bash
 source venv/bin/activate
-Install dependencies:
+ ```
+## Install dependencies:
 
-bash
-Copy code
+ ```bash
 pip install -r requirements.txt
-Run the application:
+ ```
+## Run the application:
 
-bash
-Copy code
+ ```bash
 python app.py
 Open your browser and navigate to http://127.0.0.1:5000/.
+ ```
 
-📸 Screenshots
-(Replace the links below with your actual screenshots if available)
+## 🧪 Technologies Used
+- **Python**: Programming language for backend development.
 
+- **Flask**: Web framework for building the application.
 
-Homepage of the Disease Prediction App
+- **scikit-learn**: Machine learning library for model implementation.
 
+- **HTML/CSS/JavaScript**: For frontend development.
 
-Sample prediction result page
-
-🧪 Technologies Used
-Python: Programming language for backend development.
-
-Flask: Web framework for building the application.
-
-scikit-learn: Machine learning library for model implementation.
-
-HTML/CSS/JavaScript: For frontend development.
-
-Render.com: Platform for deploying the application.
+- **Render.com**: Platform for deploying the application.
 
 
 
